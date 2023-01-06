@@ -16,6 +16,22 @@ Here is an attempt to make these bits more publicly available.
 Currently, documentation is sparse to non-existent.  Hopefully, this
 is useful, nonetheless.  Feedback is certainly appreciated.
 
+## Getting Started
+
+I use these helpers under Linux, but, in theory, they should work in
+Windows, and maybe even on a Mac.
+
+Installation outline:
+
+1. First, install [Inkscape][].
+   These helpers should work with any Inkscape with version 1.0 or later.
+2. Install [python](https://python.org), version 3.7 or greater.
+3. Install my [barnhunt](https://github.com/barnhunt/barnhunt#installation)
+   script.
+4. Finally run the `barnhunt install` sub-command to install
+   my [inkscape plugins](https://github.com/barnhunt/inkex-bh)
+   and [inkscape symbol sets](https://github.com/barnhunt/bh-symbols).
+
 ## Author
 
 Jeff Dairiki, BHAJ-221A, <dairiki@dairiki.org>
