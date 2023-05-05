@@ -1,5 +1,7 @@
 # Barn Hunt Helpers
 
+[![trackgit-views](https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lhaq315q9lwjmpm6k47l)](https://trackgit.com)
+
 Here are some bits and pieces that are possibly useful when drawing
 [Barn Hunt][] maps using [Inkscape][].
 
